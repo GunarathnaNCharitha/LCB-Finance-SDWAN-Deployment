@@ -5,16 +5,17 @@
 
 🔗 [LCB Finance Website](https://www.lcbfinance.lk)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I delivered a **secure multi-branch network deployment** for **LCB Finance PLC**, a financial institution with multiple branch locations across Sri Lanka.  
 
 The project centered on **FortiGate SD-WAN**, enabling secure, optimized, and resilient WAN connectivity with centralized management and standardized security policies.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - Multiple branches with inconsistent VPN setups and policies.  
 - Inefficient bandwidth usage with frequent WAN performance issues.  
 - Limited failover capabilities in case of link outages.  
@@ -22,7 +23,7 @@ The project centered on **FortiGate SD-WAN**, enabling secure, optimized, and re
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 We designed and deployed a **FortiGate-based SD-WAN solution** with dynamic routing to ensure secure and optimized branch connectivity:  
 - **FortiGate firewalls** deployed at all branches.  
 - **SD-WAN overlay** for intelligent path selection and link optimization.  
@@ -32,16 +33,16 @@ We designed and deployed a **FortiGate-based SD-WAN solution** with dynamic rout
 
 ---
 
-## 📊 Outcomes & Benefits
-- 🔒 **Standardized security policies** across all branch offices.  
-- 🌐 **Resilient SD-WAN connectivity** with automatic failover.  
-- ⚡ **Optimized WAN performance** via intelligent path selection.  
-- 📈 **Dynamic BGP routing** for seamless scalability and flexibility.  
-- 🕵️ **Improved visibility** into branch-to-branch and branch-to-HQ traffic.  
+## Outcomes & Benefits
+- **Standardized security policies** across all branch offices.  
+- **Resilient SD-WAN connectivity** with automatic failover.  
+- **Optimized WAN performance** via intelligent path selection.  
+- **Dynamic BGP routing** for seamless scalability and flexibility.  
+- **Improved visibility** into branch-to-branch and branch-to-HQ traffic.  
 
 ---
 
-## 📈 My Key Contributions
+## My Key Contributions
 - Designed the **SD-WAN architecture** with branch-to-HQ and branch-to-branch resilience.  
 - Configured **BGP routing** for optimized failover and redundancy.  
 - Implemented **centralized VPN policies** for remote offices.  
@@ -50,5 +51,3 @@ We designed and deployed a **FortiGate-based SD-WAN solution** with dynamic rout
 
 ---
 
-
-> ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is exposed.  

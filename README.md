@@ -5,7 +5,9 @@
 
 🔗 [LCB Finance Website](https://www.lcbfinance.lk)  
 
-**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
+> [!IMPORTANT]  
+**All configs, IPs, and diagrams in this repo are sanitized. No customer data is exposed.**
+
 ---
 
 ## Project Overview
